@@ -1,0 +1,52 @@
+#title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+}
+#img-id{
+    text-align: center;
+}
+#img-caption{
+    text-align: center;
+    padding-top: 10px;
+}
+ul{
+    text-align: left;
+    line-height: 2;
+    
+}
+#tribute-info{
+    text-align: center;
+    margin: 0 25%;
+    padding-top: 20px;
+    width: 55%;
+   
+}
+ul li{
+   padding: 5px;
+}
+#img-div{
+    background-color: white ;
+    margin:0 15px;
+    padding: 10px;
+}
+blockquote{
+    text-align: left;
+    font-style: italic;
+}
+#main{
+    background-color: #eee;
+    padding: 5px 0;
+    
+}
+#image{
+display: block;
+max-width: 100%;
+height: auto;
+}
+html{
+font-size:20px;
+}
